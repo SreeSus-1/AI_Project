@@ -1,5 +1,4 @@
-# AI_Project
-**#Genetic Algorithm**
+# AI_Project   **#Genetic Algorithm**
 
 **Genetic Algorithm for Feature Selection**
 This program implements a genetic algorithm for feature selection using cosine similarity as the fitness function. The algorithm evolves a population of binary feature vectors over multiple generations to maximize classification accuracy on a validation dataset.
