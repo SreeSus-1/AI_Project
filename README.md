@@ -3,7 +3,23 @@
 **Genetic Algorithm for Feature Selection**
 This program implements a genetic algorithm for feature selection using cosine similarity as the fitness function. The algorithm evolves a population of binary feature vectors over multiple generations to maximize classification accuracy on a validation dataset.
 
-**How to Run the Program**
+**Requirements**:
+
+  Python 3.x
+  
+  NumPy
+  
+  pandas
+  
+  Matplotlib
+  
+  scikit-learn
+  
+Ensure that you have the required Python packages installed before running the program.
+
+**How to Run the Program? **
+
+Intitially, 
 
 **Data Preparation:**
 Prepare your training and validation datasets in CSV format.
@@ -64,16 +80,3 @@ Qualified feature vectors: [   3    6    9   11   12   13   14   15   17   19   
 ![image](https://github.com/SreeSus-1/AI_Project/assets/164704978/8fbb0c05-df53-4d4c-be6f-acad39d83658)
 
 
-**Requirements**:
-
-  Python 3.x
-  
-  NumPy
-  
-  pandas
-  
-  Matplotlib
-  
-  scikit-learn
-  
-Ensure that you have the required Python packages installed before running the program.
