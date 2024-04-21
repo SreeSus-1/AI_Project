@@ -17,7 +17,7 @@ This program implements a genetic algorithm for feature selection using cosine s
   
 Ensure that you have the required Python packages installed before running the program.
 
-**How to Run the Program? **
+**How to Run the Program?**
 
 Intitially, 
 
