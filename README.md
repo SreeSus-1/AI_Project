@@ -37,10 +37,13 @@ mutation_rate: Probability of mutation during reproduction.
 **Program Output**:
 After running the program, it will display the following information:
 
-Number of classes in training and validation labels.
+`Number of classes in training and validation labels.
 Final optimized feature vector accuracy on the validation dataset.
 Number of qualified feature vectors and their indices.
 A line graph showing the fitness score over generations.
+
+`
+
 **Requirements**:
   Python 3.x
   NumPy
