@@ -22,6 +22,8 @@ In this project Datasets are:
 Place the program file (genetic_algorithm.py) in the same directory as your datasets.
 Open the terminal or command prompt.
 Navigate to the directory containing the program and datasets.
+
+
 ![image](https://github.com/SreeSus-1/AI_Project/assets/164704978/aa0137fd-67f4-46d1-8f29-635bfd3b200c)
 
 **Run the program using the command:**
