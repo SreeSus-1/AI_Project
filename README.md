@@ -58,25 +58,36 @@ mutation_rate: Probability of mutation during reproduction.
 **Program Output**:
 After running the program, it will display the following information:
 
-        Number of classes in training and validation labels.
+        Randomly picked population size and generation size
         Final optimized feature vector accuracy on the validation dataset.
-        Number of qualified feature vectors and their indices.
+        Number of qualified feature vectors.
         A line graph showing the fitness score over generations.
 
-Number of classes in training labels: 7
+Population Size: 56
 
-Number of classes in validation labels: 7
+Generations: 60
 
-Final optimized feature vector accuracy: 2.78%
+Generation: 1 Best selected features: [0 1 1 ... 0 1 1]
 
-Number of qualified feature vectors: 693
+Best accuracy for generation 1 : 0.07728306535293722
 
-Qualified feature vectors: [   3    6    9   11   12   13   14   15   17   19   21   22   23   27
-........................................
- 1423 1425 1427 1428 1430 1431 1432]
+Generation: 2 Best selected features: [0 1 1 ... 0 1 1]
+
+Best accuracy for generation 2 : 0.07910739070779335
+'
+'
+Best accuracy for generation 60 : 0.08550580085635226
+
+
+Final best optimized features: [1 1 1 ... 1 1 1]
+
+Final features count: 682
+
+Final accuracy: 80.550580085635226
 
 **Graph:******
 
-![image](https://github.com/SreeSus-1/AI_Project/assets/164704978/8fbb0c05-df53-4d4c-be6f-acad39d83658)
+![image](https://github.com/SreeSus-1/AI_Project/assets/164704978/ec1b692e-bb0f-4871-9931-bdb3cf3d3879)
+
 
 
