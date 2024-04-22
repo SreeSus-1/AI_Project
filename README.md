@@ -58,13 +58,16 @@ mutation_rate: Probability of mutation during reproduction.
 **Program Output**:
 After running the program, it will display the following information:
 
- Randomly picked population size and generations
+ 1. Randomly picked population size and generations
  
- Final optimized feature vector accuracy on the validation dataset.
+ 2. Final optimized feature vector accuracy on the validation dataset.
         
- Number of qualified feature vectors.
+ 3. Number of qualified feature vectors.
 
- A line graph showing the fitness score over generations.
+ 4. A line graph showing the fitness score over generations.
+
+
+**OUR CODE OUTPUT:**
 
 Population Size: 56
 
