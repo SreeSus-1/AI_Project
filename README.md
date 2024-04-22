@@ -85,7 +85,7 @@ Final features count: 682
 
 Final accuracy: 80.550580085635226
 
-**Graph:******
+**Graph:**
 
 ![image](https://github.com/SreeSus-1/AI_Project/assets/164704978/ec1b692e-bb0f-4871-9931-bdb3cf3d3879)
 
