@@ -69,42 +69,22 @@ After running the program, it will display the following information:
 
 **OUR CODE OUTPUT:**
 
-Population Size: 55
-
-Generations: 14
-
-Generation: 1 Best selected features: [0 0 1 ... 1 0 1]
-
-Generation: 2 Best selected features: [0 0 1 ... 1 0 1]
-
-Generation: 3 Best selected features: [0 0 1 ... 1 0 1]
-
-Generation: 4 Best selected features: [0 0 1 ... 1 0 1]
-
-Generation: 5 Best selected features: [0 0 1 ... 1 0 1]
-
-Generation: 6 Best selected features: [0 0 1 ... 1 0 1]
-
-Generation: 7 Best selected features: [0 0 0 ... 0 0 1]
-
-Generation: 8 Best selected features: [0 0 0 ... 0 0 1]
-
-Generation: 9 Best selected features: [1 0 0 ... 0 0 1]
-
-Generation: 10 Best selected features: [1 0 0 ... 0 0 1]
-
-Generation: 11 Best selected features: [1 0 0 ... 0 0 1]
-
-Generation: 12 Best selected features: [1 0 0 ... 0 0 1]
-
-Generation: 13 Best selected features: [1 0 0 ... 0 0 1]
-
-Generation: 14 Best selected features: [1 0 0 ... 0 0 1]
+Population Size: 62
+Generations: 34
+Generation: 1 Best selected features: [0 0 1 ... 0 1 1]
+Generation: 2 Best selected features: [0 0 1 ... 1 1 0]
+'
+'
+'
+Generation: 34 Best selected features: [0 0 1 ... 1 0 1]
 
 ![image](https://github.com/SreeSus-1/AI_Project/assets/164704978/a71c9bf0-34d2-4090-b517-cbc343478b53)
 
-Final best optimized features: [0 0 0 ... 1 1 1]
-Final features count: 708
-Final accuracy: 76.99332613672371
+
+Final best optimized features: [0 1 1 ... 1 1 0]
+
+Final features count: 755
+
+Final accuracy: 73.9830189646246
 
 
