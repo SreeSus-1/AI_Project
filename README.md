@@ -101,7 +101,7 @@ Generation: 13 Best selected features: [1 0 0 ... 0 0 1]
 
 Generation: 14 Best selected features: [1 0 0 ... 0 0 1]
 
-![image](https://github.com/SreeSus-1/AI_Project/assets/164704978/a3d400d2-1b85-41d6-88eb-e2fa5cf1d6ff)
+![image](https://github.com/SreeSus-1/AI_Project/assets/164704978/a71c9bf0-34d2-4090-b517-cbc343478b53)
 
 Final best optimized features: [0 0 0 ... 1 1 1]
 Final features count: 708
