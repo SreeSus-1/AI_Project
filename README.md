@@ -75,16 +75,14 @@ Generation: 1 Best selected features: [0 0 1 ... 0 1 1]
 Generation: 2 Best selected features: [0 0 1 ... 1 1 0]
 '
 '
-'
-Generation: 34 Best selected features: [0 0 1 ... 1 0 1]
+Generation: 44 Best selected features: [1 1 0 ... 1 0 0]
 
-![image](https://github.com/SreeSus-1/AI_Project/assets/164704978/a71c9bf0-34d2-4090-b517-cbc343478b53)
-
-
-Final best optimized features: [0 1 1 ... 1 1 0]
-
-Final features count: 755
-
-Final accuracy: 73.9830189646246
+![image](https://github.com/SreeSus-1/AI_Project/assets/164704978/538d6536-ae2a-4c90-abf4-61f678c3a016)
 
 
+
+Final best optimized features: [1 1 0 ... 0 0 0]
+
+Final features count: 686
+
+Final accuracy: 84.20082515678628
